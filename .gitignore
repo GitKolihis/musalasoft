@@ -1,1 +1,22 @@
 musalasoftbackend/node_modules/**/*
+musalasoftfrontend/node_modules/**/*
+
+musalasoftfrontend/.pnp
+musalasoftfrontend/.pnp.js
+
+# testing
+musalasoftfrontend/coverage
+
+# production
+musalasoftfrontend/build
+
+# misc
+musalasoftfrontend/.DS_Store
+musalasoftfrontend/.env.local
+musalasoftfrontend/.env.development.local
+musalasoftfrontend/.env.test.local
+musalasoftfrontend/.env.production.local
+
+musalasoftfrontend/npm-debug.log*
+musalasoftfrontend/yarn-debug.log*
+musalasoftfrontend/yarn-error.log*
